@@ -1,1 +1,4 @@
 # Projeto-Integrador-Frontend
+O First Step é uma página estática desenvolvida para realizar comparativos simples e objetivos entre diferentes modelos de tênis de corrida. O projeto foi iniciado em 12/11/2026 com apoio de inteligência artificial (Gemini) para auxílio em comandos e ajustes técnicos.
+
+O nome funciona como um trocadilho entre o primeiro passo de quem está começando na corrida e o meu próprio início na área de TI. A escolha do tema une uma paixão pessoal à necessidade prática de ajudar corredores a escolherem o calçado ideal, utilizando o canal Tênis Certo como referência para informações técnicas e o portal TudoCelular como inspiração para a estrutura visual de comparação.
